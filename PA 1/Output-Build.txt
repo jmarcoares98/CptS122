@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: PA1 CptSci122, Configuration: Debug Win32 ------
+1>  main.c
+1>  PA1 CptSci122.vcxproj -> C:\Users\Marco Ares\documents\visual studio 2015\Projects\PA1 CptSci122\Debug\PA1 CptSci122.exe
+1>  PA1 CptSci122.vcxproj -> C:\Users\Marco Ares\documents\visual studio 2015\Projects\PA1 CptSci122\Debug\PA1 CptSci122.pdb (Full PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

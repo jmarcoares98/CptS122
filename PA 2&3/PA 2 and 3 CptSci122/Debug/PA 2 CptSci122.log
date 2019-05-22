@@ -1,0 +1,23 @@
+﻿  main.c
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(81): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(139): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(139): warning C4024: 'deleteRecords': different types for formal and actual parameter 2
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(155): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[30]'
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(155): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(165): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[30]'
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(165): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(25): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(108): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(111): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(114): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(117): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\marco ares\desktop\cptsci 122 pas\pa 2 & 3 cptsci122\pa 2 cptsci122\main.c(195): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  PA 2 CptSci122.vcxproj -> C:\Users\Marco Ares\Desktop\CptSci 122 PAs\PA 2 & 3 CptSci122\Debug\PA 2 CptSci122.exe
+  PA 2 CptSci122.vcxproj -> C:\Users\Marco Ares\Desktop\CptSci 122 PAs\PA 2 & 3 CptSci122\Debug\PA 2 CptSci122.pdb (Full PDB)

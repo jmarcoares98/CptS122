@@ -1,0 +1,32 @@
+﻿  fitbit.c
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(54): warning C4047: '=': 'unsigned int' differs in levels of indirection from 'void *'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(31): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(34): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(37): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(40): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(46): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(56): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(59): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(72): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(75): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(78): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(154): warning C4047: '==': 'unsigned int' differs in levels of indirection from 'void *'
+c:\users\marco ares\documents\visual studio 2015\projects\pa1 cptsci122\pa1 cptsci122\fitbit.c(174): warning C4018: '>': signed/unsigned mismatch
+  PA1 CptSci122.vcxproj -> C:\Users\Marco Ares\documents\visual studio 2015\Projects\PA1 CptSci122\Debug\PA1 CptSci122.exe
+  PA1 CptSci122.vcxproj -> C:\Users\Marco Ares\documents\visual studio 2015\Projects\PA1 CptSci122\Debug\PA1 CptSci122.pdb (Full PDB)
